@@ -4,7 +4,7 @@ This is the project for our course Data Analytics (UE20CS312). The dataset chose
 "How to become Top Earner on Airbnb?"
 
 Name: Anushka Pandey
-SRN: PES1UG20CS072
+ SRN: PES1UG20CS072
 
 Name: Devika S
-SRN: PES1UG20CS123
+ SRN: PES1UG20CS123
